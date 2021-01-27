@@ -11,3 +11,6 @@ print(sum)
 # n! = 1 × 2 × … × n
 
 # For the given integer n calculate the value n!. Don't use math module in this exercise.
+
+for i in range(10):
+    print(i, end= '')  
