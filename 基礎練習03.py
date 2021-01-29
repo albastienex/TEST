@@ -19,3 +19,7 @@ print("You can also call me %s" %(a["nickname"]))
 print("I come from %s" %(a["nationality"]))
 
 
+a['age']=25
+a['sex']="male"
+
+print(a)
